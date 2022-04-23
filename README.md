@@ -3,7 +3,7 @@
 
 ## Requirements:
 
-- VUE JS Or Angular, with any state management tool you prefer.
+- REACTJS,VUEJS Or Angular, with any state management tool you prefer.
 - Javascript or Typescript, a statically typed language is better but optional
 - Mocha, Jest, Karma, or whichever test runner you prefer- but not at all required.
 - Use of this repo (fork) as a host for your submission
